@@ -1,0 +1,32 @@
+{
+  "manifest_version": "1.0",
+  "org": "Fridus",
+  "repo": "webpack-watch-files-plugin",
+  "versions": [
+    {
+      "commit": "c8ea2e848feba052693d62e59f938f9aed661c25",
+      "parsed_at": "2026-04-19T21:30:37.088090+00:00",
+      "tag": "v1.2.1",
+      "filetree": "filetree/c8ea2e848feba052693d62e59f938f9aed661c25.nq.gz",
+      "blobs": [
+        "blob/b184dcc59a8395d55ecdd30f3b8f62cddb0a035a.nq.gz",
+        "blob/5848e78f797a6b3c43dae210faab665c5644507f.nq.gz",
+        "blob/87771c768d042a199b03431004e77fd199f97b5d.nq.gz",
+        "blob/4c5ba5718a42141fabbb6f40cb96f90602143a42.nq.gz",
+        "blob/497639e98f6fdd67d01520a523b30d6184002267.nq.gz",
+        "blob/ec274b71a8c1fa85fb38c079a9c1131218a8cd99.nq.gz",
+        "blob/88db0ecdf19dff385b2d2a14d9be004932e94f35.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/8974748db28b8c0213a982a0628f54fa3ffcf043.nq.gz",
+        "blob/a751a66a7189223351ddd91a3c10fef5abfec925.nq.gz",
+        "blob/5b95eab52c46b2072ecdab9be8a9ea849a9c0f60.nq.gz",
+        "blob/5f331977030c46fbcb4085ed49a52e047538d532.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
